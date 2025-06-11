@@ -73,7 +73,7 @@ WORKING_DIR = './working-directory'
 VIDEO_FOLDER = 'video-folder'
 DO_TRAIN = True
 DO_TEST = True
-
+```
 ## Kinovea Module
 
 ### Goal
