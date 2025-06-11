@@ -1,0 +1,4 @@
+tensorflow==2.12.1
+tensorpack>=0.11
+tf_slim>=1.1.0
+deeplabcut
