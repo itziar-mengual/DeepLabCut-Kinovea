@@ -2,7 +2,7 @@ from extractor import extract_tables_from_excel
 from utils import get_excel_files
 
 if __name__ == '__main__':
-    path = "//Kinovea"
+    path = "/Users/admin/PycharmProjects/DeepLabCut - Kinovea/Kinovea"
     excel_files = get_excel_files(path)
     print(excel_files)
 
