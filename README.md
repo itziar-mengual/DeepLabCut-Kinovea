@@ -96,3 +96,5 @@ cd DeepLabCut-Kinovea
 pip install -r requirements.txt
 ```
 
+# Author
+Itziar Mengual, 2025
