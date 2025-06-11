@@ -1,15 +1,15 @@
-# DeepLabCut-Kinovea 🧠📹📊
+# DeepLabCut-Kinovea
 
 This project integrates motion tracking data from Kinovea (Excel-based coordinate exports) with [DeepLabCut](https://www.deeplabcut.org/) for biomechanical video analysis and deep learning-based pose estimation.
 
 It is divided into two main components:
 
-- 📊 `kinovea/`: Parses marker data from Kinovea `.xlsx` files.
-- 🧠 `deeplabcut/`: Handles DeepLabCut project training, testing, and video analysis.
+- `kinovea/`: Parses marker data from Kinovea `.xlsx` files.
+- `deeplabcut/`: Handles DeepLabCut project training, testing, and video analysis.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 DeepLabCut-Kinovea/
 ├── deeplabcut/
