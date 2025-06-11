@@ -10,7 +10,7 @@ It is divided into two main components:
 ---
 
 ## Project Structure
-
+```
 DeepLabCut-Kinovea/
 ├── deeplabcut/
 │ ├── config.py
@@ -25,7 +25,7 @@ DeepLabCut-Kinovea/
 │ └── Data/
 ├── requirements.txt
 └── README.md
-
+```
 
 ---
 
