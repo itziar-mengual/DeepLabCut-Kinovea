@@ -87,9 +87,12 @@ Extract all marker blocks from `.xlsx` files exported by Kinovea, regardless of 
 - Outputs a single `.csv` file for analysis or ML workflows.
 
 # Clone this repository
+```
 git clone https://github.com/itziar-mengual/DeepLabCut-Kinovea.git
 cd DeepLabCut-Kinovea
-
+```
 # Install dependencies
+```
 pip install -r requirements.txt
+```
 
