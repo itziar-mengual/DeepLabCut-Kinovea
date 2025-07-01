@@ -3,3 +3,5 @@ tensorpack>=0.11
 tf_slim>=1.1.0
 deeplabcut
 openpyxl
+moviepy>=1.0.3
+pandas>=1.1.5
