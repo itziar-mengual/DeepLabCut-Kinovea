@@ -14,7 +14,9 @@ It is divided into two main components:
 DeepLabCut-Kinovea/
 ├── deeplabcut/
 │ ├── config.py
+│ ├── convert.py
 │ ├── main.py
+│ ├── preprocess.py
 │ ├── train.py
 │ ├── test.py
 │ └── utils.py
@@ -73,6 +75,7 @@ WORKING_DIR = './working-directory'
 VIDEO_FOLDER = 'video-folder'
 DO_TRAIN = True
 DO_TEST = True
+DO_PREPROCESS = True
 ```
 ## Kinovea Module
 
